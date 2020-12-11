@@ -15,9 +15,9 @@ Client has asked that their website meet accessibiltiy standards and to be optim
 - Added comments before each section of page in HTML and CSS for easier navigation of codebase
 
 # Link to deployed site:
-https://bash7325.github.io/homework-week-1/
+https://bash7325.github.io/code-refractor/
 # Link to repository:
-https://github.com/bash7325/homework-week-1
+https://github.com/bash7325/code-refractor
 
 # Screenshots:
 [Screeshot 1](https://i.imgur.com/MvTk46G.jpg)
