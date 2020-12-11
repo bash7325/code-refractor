@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Homework Week 1: Code Refractor
 Client has asked that their website meet accessibiltiy standards and to be optimized for search engines.
 
