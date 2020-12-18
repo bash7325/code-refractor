@@ -19,5 +19,5 @@ https://bash7325.github.io/code-refractor/
 https://github.com/bash7325/code-refractor
 
 # Screenshots:
-[Screeshot 1](https://i.imgur.com/MvTk46G.jpg)
-[Screeshot 2](https://i.imgur.com/KT6U3dl.png)
+- ![Screeshot 1](https://i.imgur.com/MvTk46G.jpg)
+- ![Screeshot 2](https://i.imgur.com/KT6U3dl.png)
